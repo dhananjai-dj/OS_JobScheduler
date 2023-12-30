@@ -61,5 +61,4 @@ This web application is designed to simulate and visualize various operating sys
 
 
 
-https://github.com/dhananjai-dj/OS_JobScheduler/assets/119773597/4e4423a8-b96b-43cd-990f-a5b38b136572
 
